@@ -1,1 +1,2 @@
 added file E
+some text
