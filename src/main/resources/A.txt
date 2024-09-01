@@ -1,2 +1,2 @@
 Text File added in master branch
-Updating the file in master again
+removing the line from master
